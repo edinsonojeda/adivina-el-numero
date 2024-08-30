@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ffffff;
+}
+
+.dijite  {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+input {
+    padding: 1rem;
+    width: auto;
+    margin: 1rem;
+    border-radius: 1rem;
+    border-width:.5rem ;
+    border-color: aqua;
+}
+
+.form {
+    width: 15rem;
+    
+}
+
+
+
+
+
+
+
